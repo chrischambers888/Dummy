@@ -1,9 +1,13 @@
+%%%%%%%%
 Movies:
+%%%%%%%%
 good will hunting
 scent of a women
 joker
 
+%%%%%%%%
 Foods:
+%%%%%%%%
 pasta
 steak
 greek/turkish food
